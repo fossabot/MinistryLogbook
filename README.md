@@ -5,6 +5,7 @@
 
 [![Build Status](https://github.com/danieldaeschle/MinistryLogbook/workflows/Build/badge.svg)](https://github.com/danieldaeschle/MinistryLogbook/actions/workflows/test.yml)
 [![Release](https://img.shields.io/github/v/release/MinistryLogbook/MinistryLogbook?include_prereleases)](https://github.com/MinistryLogbook/MinistryLogbook/releases)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMinistryLogbook%2FMinistryLogbook.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMinistryLogbook%2FMinistryLogbook?ref=badge_shield)
 
 </div>
 
@@ -22,3 +23,7 @@
 ## Download
 
 [<img height="80" src="resources/google-play-badge.png" alt="Get it on Google Play">](https://play.google.com/store/apps/details?id=app.ministrylogbook)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMinistryLogbook%2FMinistryLogbook.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMinistryLogbook%2FMinistryLogbook?ref=badge_large)
